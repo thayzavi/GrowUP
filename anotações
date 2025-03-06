@@ -21,3 +21,9 @@
 //buffer => O Buffer é uma estrutura de dados usada pelo Node.js para armazenar
 //  dados binários brutos (raw data) de maneira eficiente, principalmente quando lidamos com streams (fluxos de dados). 
 // Ele é útil para manipular arquivos, requisições HTTP, comunicação via rede, entre outros.
+// node:fs
+//node:fs/promises
+// UUID => Unique Universal ID
+// existem 3 formas do fronte enviar informações - Query Parameters, Route Parameters, Request Body;
+// Regex
+// ? 
