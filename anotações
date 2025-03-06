@@ -1,0 +1,23 @@
+//npm init -y - install
+// GET => Buscar informações do back-end
+// POST => criar uma informação no back
+// PUT => Atualizar um recurso no bak
+// PATCH => Atualizar uma informação especifica de um recurso no back
+// DELETE => Deletar um recurso no back
+
+//Exemplo 
+// GET/USER => Buscar Usuário do back
+// POST/user => Criar um usuário no back
+//Json - JavaScript Object Notation
+// Cabeçalhos (Requisição/resposta) => Metadados
+// http status code 
+// requisezão http, cabeçalhos, metodos hhtp, recurso diferencia entre stateful para stateless, status code
+// req => ReadableStream
+// res => WritableStream
+//a partir do Node.js 18, ao usar fetch() para enviar um corpo na requisição (ex.: POST, PUT, PATCH),
+//  é necessário definir a opção duplex: "half".
+// todo função await precisar da função async como superior
+
+//buffer => O Buffer é uma estrutura de dados usada pelo Node.js para armazenar
+//  dados binários brutos (raw data) de maneira eficiente, principalmente quando lidamos com streams (fluxos de dados). 
+// Ele é útil para manipular arquivos, requisições HTTP, comunicação via rede, entre outros.
